@@ -44,8 +44,8 @@ ultraedit-landing-page/
 └── README.md
 
 #  How to Use
-1. Clone the repo or download the ZIP:
-git clone https://github.com/yourusername/ultraedit-landing-page.git
+1. Clone the repo or download the ZIP: <br>
+git clone https: //github.com/yourusername/ultraedit-landing-page.git
 
 2. Open index.html in your browser.
 3. Customize the content and images as needed.
