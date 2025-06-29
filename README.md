@@ -34,13 +34,13 @@ Font Awesome – Icon support
 # 📁 Project Structure
 
 ultraedit-landing-page/
-├── index.html
-├── style.css
-├── script.js
-├── /assets
-│   ├── img1.png
-│   ├── img2.webp
-│   ├── ...
+├── index.html <br>
+├── style.css  <br>
+├── script.js <br>
+├── /assets  <br>
+│   ├── img1.png <br>
+│   ├── img2.webp <br>
+│   ├── ... <br>
 └── README.md
 
 #  How to Use
